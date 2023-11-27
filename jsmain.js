@@ -1008,7 +1008,7 @@ function bathome(){
     window.location.href = "home.html";
 }
 function batlog(){
-    window.location.href = "Index.html";
+    window.location.href = "index.html";
 }
 
 
